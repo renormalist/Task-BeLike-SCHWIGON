@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - add: indirect, multidimensional, bareword::filehandles
 
 0.001     2012-05-08
         - initial module collection roughly based on FLORA

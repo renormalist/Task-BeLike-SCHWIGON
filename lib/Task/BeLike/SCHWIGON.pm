@@ -40,6 +40,8 @@ package Task::BeLike::SCHWIGON;
 
 =pkgroup Development Tools
 
+=pkg bareword::filehandles
+
 =pkg Acme::MetaSyntactic
 
 =pkg Carp::Always
@@ -58,9 +60,11 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Dist::Zilla::PluginBundle::SCHWIGON
 
-=pkg Dist::Zilla::App::Command::weaverconf
+=pkg Pod::Weaver::PluginBundle::SCHWIGON
 
 =pkg Gitalist
+
+=pkg indirect
 
 =pkg Module::CPANTS::Analyse
 
@@ -73,6 +77,8 @@ package Task::BeLike::SCHWIGON;
 =pkg Module::Install::CheckConflicts
 
 =pkg Module::Install::ExtraTests
+
+=pkg multidimensional
 
 =pkg Perl::Tidy
 
