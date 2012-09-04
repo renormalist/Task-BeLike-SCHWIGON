@@ -1,6 +1,11 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - add Archive::Tar::Wrapper
+        - add Task::PerlFormance
+        - add DBD::Pg
+        - add TAPPER deps
+        - drop lots of unused stuff
 
 0.002     2012-08-07
         - add: indirect, multidimensional, bareword::filehandles
