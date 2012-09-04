@@ -8,8 +8,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg App::Ack
 
-=pkg App::Metabase::Relayd
-
 =pkg App::Nopaste
 
 =pkg App::Software::License
@@ -40,15 +38,9 @@ package Task::BeLike::SCHWIGON;
 
 =pkgroup Development Tools
 
+=pkg Archive::Tar::Wrapper
+
 =pkg bareword::filehandles
-
-=pkg Acme::MetaSyntactic
-
-=pkg Carp::Always
-
-=pkg Carp::Always::Color
-
-=pkg Carp::REPL
 
 =pkg Devel::bt
 
@@ -62,11 +54,7 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Pod::Weaver::PluginBundle::SCHWIGON
 
-=pkg Gitalist
-
 =pkg indirect
-
-=pkg Module::CPANTS::Analyse
 
 =pkg Module::Install 0.95
 
@@ -92,15 +80,15 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Test::Pod::Coverage
 
-=pkg Test::Without::Module
-
 =pkg V
 
 =pkgroup Modules I use a lot
 
-=pkg aliased
-
 =pkg App::Cmd
+
+=pkg App::Rad
+
+=pkg Task::PerlFormance
 
 =pkg Bundle::CPANxxl
 
@@ -112,9 +100,9 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Cache::FileCache
 
-=pkg Catalyst::Model::KiokuDB
-
 =pkg Data::DPath
+
+=pkg App::DPath
 
 =pkg Data::Visitor
 
@@ -135,6 +123,8 @@ package Task::BeLike::SCHWIGON;
 =pkg DBD::mysql
 
 =pkg DBD::SQLite
+
+=pkg DBD::Pg
 
 =pkg DBI
 
@@ -158,8 +148,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg File::Type
 
-=pkg Function::Parameters
-
 =pkg Hash::Merge
 
 =pkg Hash::Merge::Simple
@@ -175,20 +163,6 @@ package Task::BeLike::SCHWIGON;
 =pkg List::MoreUtils
 
 =pkg Log::Log4perl
-
-=pkg Method::Signatures
-
-=pkg Method::Signatures::Simple
-
-=pkg MIME::Lite
-
-=pkg MIME::Tools
-
-=pkg MIME::Types
-
-=pkg Module::Install
-
-=pkg Module::Starter
 
 =pkg Moose
 
@@ -232,13 +206,7 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Regexp::Common
 
-=pkg RPC::XML
-
-=pkg RPC::XML::Server
-
 =pkg SQL::Translator
-
-=pkg String::Diff
 
 =pkg Sub::Exporter
 
@@ -247,12 +215,6 @@ package Task::BeLike::SCHWIGON;
 =pkg TAP::Formatter::HTML
 
 =pkg TAP::Parser::Aggregator
-
-=pkg Task::Catalyst
-
-=pkg Task::KiokuDB
-
-=pkg Task::Plack
 
 =pkg Template
 
@@ -271,10 +233,6 @@ package Task::BeLike::SCHWIGON;
 =pkg URI
 
 =pkg URI::Escape
-
-=pkg XML::Generator
-
-=pkg XML::Simple
 
 =pkg YAML
 
