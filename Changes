@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.003     2013-05-02
         - add Archive::Tar::Wrapper
         - add Task::PerlFormance
         - add DBD::Pg
