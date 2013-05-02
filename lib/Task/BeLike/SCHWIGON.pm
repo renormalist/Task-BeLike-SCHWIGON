@@ -54,6 +54,10 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Pod::Weaver::PluginBundle::SCHWIGON
 
+=pkg Dist::Zilla::PluginBundle::TAPPER
+
+=pkg Pod::Weaver::PluginBundle::TAPPER
+
 =pkg indirect
 
 =pkg Module::Install 0.95
