@@ -148,7 +148,7 @@ package Task::BeLike::SCHWIGON;
 
 =pkg File::ShareDir
 
-=pkg File::Slurp
+=pkg File::Slurper
 
 =pkg File::Type
 
