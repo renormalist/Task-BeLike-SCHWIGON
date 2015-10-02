@@ -1,3 +1,4 @@
+use 5.008;
 use strict;
 use warnings;
 
@@ -22,9 +23,13 @@ package Task::BeLike::SCHWIGON;
 
 =pkg CPAN::Uploader
 
+=pkg File::Rsync::Mirror::Recent
+
 =pkgroup Optional Dependencies Of Other Modules
 
 =pkg CPAN::Reporter
+
+=pkg Git::Repository
 
 =pkg PadWalker
 
@@ -208,6 +213,8 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Parse::RecDescent
 
+=pkg PAR::Packer
+
 =pkg Regexp::Common
 
 =pkg SQL::Translator
@@ -237,6 +244,8 @@ package Task::BeLike::SCHWIGON;
 =pkg URI
 
 =pkg URI::Escape
+
+=pkg XML::Mini::Document
 
 =pkg YAML
 
