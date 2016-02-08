@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.006     2016-02-08
         - some more and some less deps
 
 0.005     2015-10-02
