@@ -17,10 +17,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg App::cpanoutdated
 
-=pkg CPAN::Mini
-
-=pkg CPAN::Mini::Devel
-
 =pkg CPAN::Uploader
 
 =pkg File::Rsync::Mirror::Recent
@@ -32,8 +28,6 @@ package Task::BeLike::SCHWIGON;
 =pkg Git::Repository
 
 =pkg PadWalker
-
-=pkg Task::SDK::Moose
 
 =pkg Term::ReadLine::Gnu
 
@@ -62,6 +56,8 @@ package Task::BeLike::SCHWIGON;
 =pkg Dist::Zilla::PluginBundle::TAPPER
 
 =pkg Pod::Weaver::PluginBundle::TAPPER
+
+=pkg Archive::Tar::Wrapper
 
 =pkg indirect
 
@@ -98,12 +94,6 @@ package Task::BeLike::SCHWIGON;
 =pkg App::Rad
 
 =pkg Task::PerlFormance
-
-=pkg Bundle::CPANxxl
-
-=pkg Bundle::libnet
-
-=pkg Bundle::LWP
 
 =pkg Cache::Cache
 
@@ -159,8 +149,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Hash::Merge
 
-=pkg Hash::Merge::Simple
-
 =pkg JSON
 
 =pkg JSON::Syck
@@ -173,38 +161,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg Log::Log4perl
 
-=pkg Moose
-
-=pkg Moose::Autobox
-
-=pkg MooseX::Daemonize
-
-=pkg MooseX::Declare
-
-=pkg MooseX::LazyRequire
-
-=pkg MooseX::Log::Log4perl
-
-=pkg MooseX::Method::Signatures
-
-=pkg MooseX::Types::Common
-
-=pkg MooseX::Types::DateTime
-
-=pkg MooseX::Types::Email
-
-=pkg MooseX::Types::LoadableClass
-
-=pkg MooseX::Types::Path::Class
-
-=pkg MooseX::Types::URI
-
-=pkg Net::Daemon
-
-=pkg Net::Server
-
-=pkg Net::Server::PreForkSimple
-
 =pkg Net::SSH
 
 =pkg Net::SSH::Expect
@@ -214,12 +170,6 @@ package Task::BeLike::SCHWIGON;
 =pkg Parse::RecDescent
 
 =pkg PAR::Packer
-
-=pkg Regexp::Common
-
-=pkg SQL::Translator
-
-=pkg Sub::Exporter
 
 =pkg TAP::DOM
 
