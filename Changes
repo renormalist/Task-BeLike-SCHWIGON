@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.007     2016-05-03
         - drop Devel::bt - trouble maker on one of my systems
 
 0.006     2016-02-08
