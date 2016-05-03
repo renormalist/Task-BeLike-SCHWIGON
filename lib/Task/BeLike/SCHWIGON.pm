@@ -41,8 +41,6 @@ package Task::BeLike::SCHWIGON;
 
 =pkg bareword::filehandles
 
-=pkg Devel::bt
-
 =pkg Devel::Cover
 
 =pkg Devel::NYTProf
